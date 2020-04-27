@@ -1,0 +1,18 @@
+{
+<<<<<<< HEAD
+    "env": {
+      "mocha": true
+    },
+    "rules": {
+      "no-unused-expressions": "off"
+    }
+  }
+=======
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    "no-unused-expressions": "off"
+  }
+}
+>>>>>>> 9ded0844f7dfd950e16b62c8b8972620759841e5
